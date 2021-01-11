@@ -1,0 +1,12 @@
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.deps.json
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.runtimeconfig.json
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.runtimeconfig.dev.json
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.dll
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/bin/Debug/netcoreapp3.1/SimpleWebScraper.pdb
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.csprojAssemblyReference.cache
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.AssemblyInfoInputs.cache
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.AssemblyInfo.cs
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.csproj.CoreCompileInputs.cache
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.dll
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.pdb
+/Users/mymac/Projects/SimpleWebScraperApp/SimpleWebScraper/obj/Debug/netcoreapp3.1/SimpleWebScraper.genruntimeconfig.cache
